@@ -8,7 +8,7 @@ import store from './redux/store';
 import axios from 'axios';
 
 //1ro: Cuando estoy en desarrollo
-//axio s.defaults.baseURL = "http://localhost:3001"
+//axios.defaults.baseURL = "http://localhost:3001"
 
 //2do:Cuando estoy en produccion
 axios.defaults.baseURL = "https://pokemonback-end-production.up.railway.app"

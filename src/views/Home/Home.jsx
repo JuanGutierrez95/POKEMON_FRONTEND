@@ -9,7 +9,6 @@ import {
   filterCreated,
   orderByAlphabetico,
   orderByAttack,
-  byReload
   } from '../../redux/actions' 
 import Loading from '../../components/Loading/Loading'
 import Card from '../../components/Card/Card' 
